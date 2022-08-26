@@ -1,0 +1,33 @@
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+  background-color: #010409;
+  font-family: 'Roboto', sans-serif;
+}
+
+td, th{
+  color: white;
+}
+
+#business-view{
+  margin-top: 20px;
+}
+
+.box-business{
+  width: 300px;
+}
+
+.form{
+  background-color: #0d1117;
+  padding: 20px;
+  border-radius: 20px;
+  border: 1px solid #30363d;
+}
+
+label {
+  color: #8eb6d4;
+  font-weight: 700;
+}
